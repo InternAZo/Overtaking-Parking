@@ -70,7 +70,7 @@ def main():
     argparser.add_argument(
         '-n', '--number-of-vehicles',
         metavar='N',
-        default=200,
+        default=70,
         type=int,
         help='Number of vehicles (editted by 200)')
     argparser.add_argument(
